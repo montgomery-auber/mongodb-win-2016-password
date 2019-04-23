@@ -1,0 +1,1 @@
+cmd /c mongo  admin -u floating -p i-0a6bef92f9e577164 < C:\Windows\Charming-Scripts\floating-cloud-mongo-passwd-orig.js

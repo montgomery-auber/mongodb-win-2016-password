@@ -1,0 +1,1 @@
+db.changeUserPassword("floating", "INSTANCE-ID")

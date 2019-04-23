@@ -1,0 +1,1 @@
+db.changeUserPassword("floating", "i-0a6bef92f9e577164")
